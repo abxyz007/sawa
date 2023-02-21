@@ -1,0 +1,25 @@
+.login {
+  &-form-wrap {
+    background: #fff;
+  }
+  &-auth-width {
+    width: 100%;
+  }
+  &-layout {
+    &-backdrop {
+      //background: url('../../images/logo.svg') no-repeat top center;
+      //background-size: cover;
+      position: relative;
+      &:after {
+        position: absolute;
+        content: '';
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: #00695C;
+        opacity: 0.5;
+      }
+    }
+  }
+}

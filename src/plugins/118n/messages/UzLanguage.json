@@ -1,0 +1,31 @@
+{
+  "code": "uz",
+  "messages": {
+    "alpha": "{_Field_} maydoni faqat harflardan iborat bo`lishi mumkin",
+    "alpha_dash": "{_Field_} maydonida faqat harflar, raqamlar va defis bo'lishi mumkin",
+    "alpha_num": "{_field_} maydoni faqat harf va sonlardan iborat bo`lishi mumkin",
+    "alpha_spaces": "{_field_} maydoni faqat harflar va bo'sh joylarni o'z ichiga olishi mumkin",
+    "between": "{_Field_} maydoni {min} va {max} orasida bo'lishi kerak",
+    "confirmed": "{_Field_} maydoni {target} bilan mos kelmaydi",
+    "digits": "{_Field_} maydoni raqamli va {length} uzunligida bo'lishi kerak",
+    "dimensions": "{_Field_} maydoni {width} piksel x {height} pikseldan iborat bo'lishi kerak",
+    "email": "{_Field_} maydonida haqiqiy elektron pochta manzili bo'lishi kerak",
+    "excluded": "{_Field_} maydonida haqiqiy qiymat bo'lishi kerak",
+    "ext": "{_Field_} maydoni haqiqiy fayl bo'lishi kerak. ({args})",
+    "image": "{_Field_} maydoni rasm bo'lishi kerak",
+    "oneOf": "{_Field_} maydoni haqiqiy qiymatdan iborat bo'lishi kerak",
+    "integer": "{_Field_} maydoni butun sondan iborat bo'lishi kerak",
+    "length": "{_Field_} maydonining uzunligi {length} bo'lishi kerak",
+    "max": "{_Field_} maydoni {uzunlik} belgidan oshmasligi kerak",
+    "max_value": "{_Field_} maydoni {max} yoki undan kam bo'lishi kerak",
+    "mimes": "{_Field_} maydoni tegishli fayl turida bo'lishi kerak ({args})",
+    "min": "{_Field_} maydoni kamida {length} belgidan iborat bo'lishi kerak",
+    "min_value": "{_Field_} maydoni {min} yoki undan katta bo'lishi kerak",
+    "numeric": "{_Field_} maydoni raqam bo'lishi kerak",
+    "regex": "{_Field_} maydoni noto'g'ri formatga ega",
+    "required": "{_Field_} maydoni to`ldirilishi talab qilinadi",
+    "required_if": "_Field_} maydoni to`ldirilishi lozim",
+    "size": "{_Field_} maydoni {size} KB dan kam bo'lishi kerak",
+    "double": "{_Field_} maydoni o'nlik sonidan iborat bo'lishi kerak"
+  }
+}
